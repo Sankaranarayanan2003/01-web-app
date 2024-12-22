@@ -4,7 +4,7 @@
   <groupId>projectname.in</groupId>
   <artifactId>01-mvn-webapp</artifactId>
   <packaging>war</packaging>
-  <version>9.8</version>
+  <version>7.8</version>
   <name>01-mvn-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
